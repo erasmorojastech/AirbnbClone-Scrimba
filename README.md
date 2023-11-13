@@ -1,4 +1,4 @@
-# Airbnb CLone
+# Airbnb Clone
 This is a class example from Scrimba "Learn React" course 
 
 ## Design
