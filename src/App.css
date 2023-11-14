@@ -1,0 +1,14 @@
+:root {
+  /* Colors */
+
+  --white: #ffffff;
+  --lightGray: #e5e5e5;
+  --darkGray: #918eb9; 
+  --black: #000;
+}
+
+#root {
+  width: 550px;
+  height: 853px;
+  font-family: Poppins, sans-serif;
+}
